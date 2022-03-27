@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 37b5eda7-9e7d-7b81-6600-bb6b772b3169
 resourcetype: Document
 title: presentation.pdf
 uid: a1ddeff4-86b2-8112-c8ee-f6cbfb9f734b
