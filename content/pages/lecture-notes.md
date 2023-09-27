@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes notes that were intended to capture the discussion
+  that took place in class, as well as accompanying presentations for some sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,10 +38,10 @@ PRESENTATIONS
 Introduction to transportation at MIT
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect1))
+({{% resource_link 32b70b2c-0b20-9607-73d5-c661f7629b38 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect1a))
+({{% resource_link db7b2e80-8a6c-d678-b10d-bb1a6f098094 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,10 +53,10 @@ Introduction to transportation at MIT
 Choice of policy options
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect2))
+({{% resource_link d058c37c-2553-c0bd-7623-3a54d1fc1da8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect2a))
+({{% resource_link e24564d6-1989-f5c0-7d8c-e69f42d749cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,10 +83,10 @@ Working session
 Discussion of analysis issues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect4))
+({{% resource_link cd18d0d3-54cc-fe77-0bd8-4ad8410f12e3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect4a))
+({{% resource_link 8e6845f2-6bc6-3fdd-02da-4074f2fa0018 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +98,7 @@ Discussion of analysis issues
 Current status of MIT parking
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect5))
+({{% resource_link 5f44a6c3-7b64-8a7a-6d75-021763592b13 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -111,7 +113,7 @@ Current status of MIT parking
 Definition of goals and questions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect6))
+({{% resource_link 895199e5-9e15-20bc-cbd8-0d5d436bb820 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -126,7 +128,7 @@ Definition of goals and questions
 U-pass and transit subsidies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect7))
+({{% resource_link b8d08cf2-9d0b-74cd-693c-286d6c34ea45 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -141,7 +143,7 @@ U-pass and transit subsidies
 Defining scope of project
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect8))
+({{% resource_link e01a7a47-b5c9-9b23-c0b8-9160cc6f2218 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -156,10 +158,10 @@ Defining scope of project
 Discussion of draft report
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect9))
+({{% resource_link e54c032f-fa16-7063-5ca1-09a66503651a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect9a))
+({{% resource_link 122499ca-c428-baeb-f717-bd9a06cae60b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,10 +173,10 @@ Discussion of draft report
 Current use of public transit
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect10))
+({{% resource_link 35df1ed5-c281-f905-76d0-616860c68249 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect10a))
+({{% resource_link 12b786ea-1974-2657-7c27-7bed8273efd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +188,7 @@ Current use of public transit
 Model details and parking price structure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect11))
+({{% resource_link 41847ebd-76df-9564-7d33-f5ccc3fe4074 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -201,7 +203,7 @@ Model details and parking price structure
 Preliminary conclusions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect12))
+({{% resource_link 18599cdd-da8d-d2d0-ac24-0ca9c2973784 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
