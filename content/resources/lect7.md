@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about U-Pass and transit subsidies.
 file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/b8d08cf29d0b74cd693c286d6c34ea45_lect7.pdf
+file_size: 23457
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

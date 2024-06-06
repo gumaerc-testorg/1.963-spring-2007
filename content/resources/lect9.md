@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes with discussion of the draft report.
 file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/e54c032ffa1670635ca109a66503651a_lect9.pdf
+file_size: 26834
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

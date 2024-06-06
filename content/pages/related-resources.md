@@ -19,10 +19,10 @@ Richardson, Heather. "The Parking Policy and Smart Growth Disconnect: Obstacles 
 Links
 -----
 
-{{% resource_link "ee0fa041-c963-4f0a-9b7f-88c2f87d20ff" "MIT Parking and Transportation" %}}
+[MIT Parking and Transportation](http://web.mit.edu/facilities/transportation/index.html)
 
-{{% resource_link "b5d38fd0-045d-44f5-9ff2-02f7297b342a" "Massachusetts Bay Transportation Authority (MBTA)" %}} — Bus and commuter rail information.
+[Massachusetts Bay Transportation Authority (MBTA)](http://www.mbta.com/) — Bus and commuter rail information.
 
-{{% resource_link "fdcd0e15-1673-4c27-9afb-5298b6785498" "MASCO" %}} runs the M2 shuttle.
+[MASCO](http://www.masco.org/) runs the M2 shuttle.
 
-{{% resource_link "22d4a09d-fc00-4c1f-91b4-71e7c80f4cb2" "EZ Ride" %}} provides service between MIT and Boston's North Station.
+[EZ Ride](http://www.charlesrivertma.org/ezride-shuttle/) provides service between MIT and Boston's North Station.
