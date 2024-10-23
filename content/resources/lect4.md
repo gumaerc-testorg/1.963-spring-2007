@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with a discussion of analysis issues.
-file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/cd18d0d354ccfe770bd84ad8410f12e3_lect4.pdf
+file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/cd18d0d354ccfe770bd84ad8410f12e3_lect4.pdf
 file_size: 24257
 file_type: application/pdf
 learning_resource_types:
