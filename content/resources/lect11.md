@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about model details and parking price structure.
-file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/41847ebd76df95647d33f5ccc3fe4074_lect11.pdf
+file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/41847ebd76df95647d33f5ccc3fe4074_lect11.pdf
 file_size: 26261
 file_type: application/pdf
 learning_resource_types:
