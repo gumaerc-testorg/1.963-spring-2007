@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on identified analysis issues.
-file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/8e6845f26bc63fdd02da4074f2fa0018_lect4a.pdf
+file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/8e6845f26bc63fdd02da4074f2fa0018_lect4a.pdf
 file_size: 11802
 file_type: application/pdf
 learning_resource_types:
