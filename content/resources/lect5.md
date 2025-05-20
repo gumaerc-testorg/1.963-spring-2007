@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the current status of MIT parking.
-file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/5f44a6c37b648a7a6d75021763592b13_lect5.pdf
+file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/5f44a6c37b648a7a6d75021763592b13_lect5.pdf
 file_size: 26026
 file_type: application/pdf
 learning_resource_types:

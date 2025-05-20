@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on parking inventory issues.
-file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/e24564d61989f5c07d8ce69f42d749cc_lect2a.pdf
+file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/e24564d61989f5c07d8ce69f42d749cc_lect2a.pdf
 file_size: 12459
 file_type: application/pdf
 learning_resource_types:

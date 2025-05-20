@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on preliminary conclusions.
-file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/18599cddda8dd2d0ac240ca9c2973784_lect12.pdf
+file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/18599cddda8dd2d0ac240ca9c2973784_lect12.pdf
 file_size: 14489
 file_type: application/pdf
 learning_resource_types:
