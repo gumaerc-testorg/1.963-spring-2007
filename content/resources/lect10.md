@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about current use of public transit at MIT.
-file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/35df1ed5c281f90576d0616860c68249_lect10.pdf
+file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/35df1ed5c281f90576d0616860c68249_lect10.pdf
 file_size: 13020
 file_type: application/pdf
 learning_resource_types:

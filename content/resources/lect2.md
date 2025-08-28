@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about choice of policy options.
-file: /courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/d058c37c2553c0bd76233a54d1fc1da8_lect2.pdf
+file: /ol-ocw-studio-app/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/d058c37c2553c0bd76233a54d1fc1da8_lect2.pdf
 file_size: 24028
 file_type: application/pdf
 learning_resource_types:
